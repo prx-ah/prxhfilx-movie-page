@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    background-color: black;
+    /* background-image: url("./images/large-img3.jpg");
+    background-repeat: none;
+    background-size: cover; */
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+}
+
+.card{
+    /* max-width: 1000px; */
+    background-color: black;
+}
+
+.card-body{
+    color: white;
+    
+}
+/* 
+.img-fluid{
+    width: 200%;
+    max-width: 200%;
+} */
+
+iframe{
+    margin-bottom: 30px;
+}

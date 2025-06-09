@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "name": "DOCTOR STRANGE",
+        "image": "images/v38_575.png",
+        "rate": "10M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/aWzlQ2N6qqg?si=2zx-LxoLMZ61u11r"     
+    },
+    {
+        "id": "2",
+        "name": "LUPIN",
+        "image": "images/large-img2.jpg",
+        "rate": "20M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.", 
+        "sample": "https://www.youtube.com/embed/cpLyzU0tk80?si=ighjeEqPKCRnvYJR"
+    },
+    {
+        "id": "3",
+        "name": "THE QUEEN'S GAMBIT",
+        "image": "images/large-img3.jpg",
+        "rate": "8M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/YHd1gv3Bt4c?si=drqDpn6LSFPUEAP7"      
+    },
+    {
+        "id": "4",
+        "name": "STRANGER THINGS 4",
+        "image": "images/large-img4.jpg",
+        "rate": "12M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/sBEvEcpnG7k?si=ksRp6t3PLkKxkx4I"
+    },
+    {
+        "id": "5",
+        "name": "THE CROWN",
+        "image": "images/large-img10.jpg",
+        "rate": "10M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/JWtnJjn6ng0?si=54ZMo7hY6njD9wAr"      
+    },
+    {
+        "id": "6",
+        "name": "JONH WICK",
+        "image": "images/large-img5.jpg",
+        "rate": "10M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/nMqETeQrgqU?si=apiz1_NOyVq0sVO_"    
+    },
+    {
+        "id": "7",
+        "name": "NOW YOU SEE ME 2",
+        "image": "images/large-img6.jpg",
+        "rate": "15M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/kMrUHV0VJe4?si=FnnngPkVcO2hzEf6"     
+    },
+    {
+        "id": "8",
+        "name": "ALL OF US ARE DEAD",
+        "image": "images/large-img7.jpg",
+        "rate": "7M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/IN5TD4VRcSM?si=h-g5ZVDxAvXu1oQR"      
+    },
+    {
+        "id": "9",
+        "name": "ALICE",
+        "image": "images/large-img8.jpg",
+        "rate": "20M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/49_44FFKZ1M?si=8HJUXdHG3_8IlAWO"      
+    },
+    {
+        "id": "10",
+        "name": "HUNGER GAMES",
+        "image": "images/large-img11.jpg",
+        "rate": "15M+ views",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "sample": "https://www.youtube.com/embed/IXshQ5mv1K8?si=jLN4-q7_TVFQ32mn"
+    }
+    
+]
